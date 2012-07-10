@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<string>icon-heart.png</string>
+		<string>icon-star.png</string>
+		<string>icon-medal.png</string>
+		<string>icon-crown.png</string>
+		<string>icon-flake.png</string>
+		<string>icon-bf.png</string>
+		<string>icon-bug.png</string>
+		<string>icon-lips.png</string>
+		<string>icon-bulb.png</string>
+		<string>icon-x.png</string>
+		<string>icon-soccer.png</string>
+		<string>icon-bullseye.png</string>
+		<string>icon-pen.png</string>
+		<string>icon-frog.png</string>
+		<string>icon-dog.png</string>
+	</array>
+</dict>
+</plist>
